@@ -1,14 +1,5 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data0":[2, 3 ,4, 5, 6,100, 200, 33, 44],
+  "data1":[33, 234,345,123,345,567,123,456,2341,12323],
+  "data2": [1234,245,345,432,333]
 }
